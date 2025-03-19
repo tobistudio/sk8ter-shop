@@ -1,6 +1,6 @@
 # Sk8ter-shop
 
-![sk8ter](https://github.com/leoMirandaa/sk8ter-shop/assets/61714687/676004ce-61cb-4424-a002-c27aff798fda)
+![sk8ter](https://github.com/tobistudio/sk8ter-shop/assets/61714687/676004ce-61cb-4424-a002-c27aff798fda)
 
 <br />
 
